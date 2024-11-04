@@ -1,10 +1,9 @@
-﻿# Gestor de Tareas
-git checkout develop
-git merge feature/tareas
-git checkout -b release/1.0.0
-# Realizar pruebas adicionales y ajustes
-git checkout master
-git merge release/1.0.0
-git tag -a v1.0.0 -m "Lanzamiento de la versión 1.0.0"
-git checkout develop
-git merge release/1.0.0
+# Gestor de Tareas
+Esta es una aplicación de gestión de tareas desarrollada en Python. Permite agregar, ver, marcar como completadas y eliminar tareas. La aplicación utiliza Tkinter para la interfaz gráfica y sigue el enfoque de Desarrollo Guiado por Pruebas (TDD) junto con GitFlow para la gestión del código.
+## Requisitos
+- Python 3.x
+- Tkinter (incluido en la instalación estándar de Python)
+## Instalación
+1. Clona este repositorio:
+```bash
+git clone
