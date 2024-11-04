@@ -6,4 +6,4 @@ Esta es una aplicación de gestión de tareas desarrollada en Python. Permite ag
 ## Instalación
 1. Clona este repositorio:
 ```bash
-git clone
+git clone https://github.com/Pool-NS/GITFLOW.git
